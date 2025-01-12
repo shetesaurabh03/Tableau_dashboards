@@ -1,2 +1,2 @@
 # Tableau_dashboards
-Tableau_dashboard_Avacado
+This repo contains all the Tableau dashboards that I have created.
